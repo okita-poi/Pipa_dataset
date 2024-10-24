@@ -22,6 +22,7 @@ $$
 ​$$
  
 召回率（Recall）：
+
 $$
 \text{Recall}
 = \frac{\text{TP}}{\text{TP}+\text{FN}} 
@@ -29,6 +30,7 @@ $$
 ​
  
 F1 分数（F1 Score）：
+
 $$
 \text{F1 Score}
 = 2*\frac{\text{Precision} * \text{Recall}}{\text{Precision} + \text{Recall}} 
